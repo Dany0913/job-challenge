@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Job Challenge</h1>
 
 <div align="center">
    Solution for a challenge from khriztianmoreno
@@ -54,7 +54,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a Fullstack course challenge. TThe challenge was to build an application to complete the given user stories.
+This application/site was created as a submission to a Fullstack course challenge. The challenge was to build an application to complete the given user stories.
 
 ## How To Use
 
